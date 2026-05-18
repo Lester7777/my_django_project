@@ -1,0 +1,501 @@
+tourist_name,destination,budget,rating,preferred_activity
+Bryan Sims,Fantasyland,11302,2.4,Island Hopping
+David Thompson,Dakak Beach Resort,4611,1.8,Swimming
+James Henderson,Mahayag Cave,13098,3.5,Historical Tour
+Monica Sanchez,Rizal Shrine,16327,3.8,Photography
+Stephanie Scott,Aliguay Island,15109,2.9,Swimming
+Anthony Becker,Aliguay Island,1219,4.5,Snorkeling
+Vincent Hill,Dakak Beach Resort,18181,1.5,Island Hopping
+Kristine Clark,Aliguay Island,3070,2.0,Island Hopping
+Sonya Marshall,Ilihan Hill,6842,1.3,Hiking
+Nicole May,Dakak Beach Resort,3095,3.0,Snorkeling
+David Moore,Sergio Osmeña Falls,13662,2.0,Historical Tour
+Anna Hall,Mount Malindang,10191,3.6,Nature Exploration
+Kayla Sosa,Mount Malindang,9598,3.6,Snorkeling
+Sandra Anderson,Sergio Osmeña Falls,19318,4.8,Camping
+Vincent Smith,Dipolog Boulevard,7363,2.4,Sightseeing
+Timothy Chan,Mahayag Cave,11884,1.9,Island Hopping
+Adam Logan,Aliguay Island,4844,3.2,Swimming
+Jesse Yoder,Dakak Beach Resort,10539,1.5,Island Hopping
+Kevin Medina,Dakak Beach Resort,15680,2.4,Hiking
+Luis Curry,Fantasyland,11933,3.4,Island Hopping
+Barbara Palmer,Sergio Osmeña Falls,12318,4.9,Swimming
+Martin Chavez,Ilihan Hill,3644,3.2,Snorkeling
+Kenneth Martinez,Gloria de Dapitan,15053,3.1,Sightseeing
+Nicole Hansen,Aliguay Island,11105,4.1,Sightseeing
+Renee Page,Mount Malindang,18008,2.9,Nature Exploration
+Angela Thompson,Mahayag Cave,1999,1.7,Nature Exploration
+Lindsay Andrews,Mount Malindang,9924,3.1,Snorkeling
+Jasmine Gutierrez,Mount Malindang,7974,2.5,Hiking
+Yvette Martin,Dipolog Boulevard,3008,3.4,Swimming
+Andrea Haynes,Ilihan Hill,17024,1.4,Sightseeing
+Nancy Reyes,Dakak Beach Resort,8185,4.5,Snorkeling
+Nicole Casey,Dakak Beach Resort,4585,4.1,Sightseeing
+David Lloyd,Gloria de Dapitan,13398,1.5,Food Trip
+Tiffany Hall,Dakak Beach Resort,3913,1.2,Nature Exploration
+Matthew Smith,Fantasyland,2821,4.6,Island Hopping
+Michelle Carter,Aliguay Island,4842,2.1,Food Trip
+Sara Salazar,Mount Malindang,4027,1.9,Snorkeling
+Diane Torres,Mount Malindang,17124,3.9,Swimming
+Holly Doyle,Aliguay Island,9608,1.0,Food Trip
+John Keith,Gloria de Dapitan,8023,2.6,Island Hopping
+Robert Cobb,Dakak Beach Resort,8772,1.3,Food Trip
+Mark Nguyen,Rizal Shrine,7397,4.8,Island Hopping
+Deborah Lee,Sergio Osmeña Falls,3470,3.6,Hiking
+Mary Pace,Gloria de Dapitan,6474,3.5,Swimming
+April Powell,Ilihan Hill,18212,4.7,Swimming
+Duane Macias,Mount Malindang,16998,3.8,Swimming
+Jill Thornton,Rizal Shrine,16959,1.2,Island Hopping
+Wesley Ramsey,Dipolog Boulevard,9253,2.9,Food Trip
+Shannon Hardin,Gloria de Dapitan,6167,2.4,Food Trip
+Anna Kim,Mahayag Cave,14002,4.3,Photography
+Christy Cline,Fantasyland,7547,3.3,Sightseeing
+Jason Davis,Aliguay Island,9769,4.5,Photography
+Colleen Nelson,Fantasyland,10758,3.4,Island Hopping
+Jared Wolf,Aliguay Island,11818,3.5,Food Trip
+Shane Barton,Dakak Beach Resort,9527,1.9,Hiking
+Jennifer Poole,Dakak Beach Resort,7489,4.1,Snorkeling
+Jessica White,Sergio Osmeña Falls,4114,1.2,Historical Tour
+Brittany Brown,Gloria de Dapitan,17021,4.3,Sightseeing
+James Morrison,Dakak Beach Resort,3209,4.8,Food Trip
+Mario Orr,Aliguay Island,1082,4.4,Camping
+Brenda Martin,Aliguay Island,9104,2.3,Food Trip
+Shane Norris,Mahayag Cave,2640,1.4,Island Hopping
+Ryan Pham,Sergio Osmeña Falls,18220,3.6,Snorkeling
+Veronica Lamb,Dakak Beach Resort,19874,2.3,Sightseeing
+Christopher Owens,Mount Malindang,15947,2.6,Snorkeling
+Andrew Campbell,Mount Malindang,11613,4.8,Hiking
+Anthony Ellis,Gloria de Dapitan,3532,1.6,Sightseeing
+Robin Miller,Sergio Osmeña Falls,8528,1.9,Nature Exploration
+Steven Cook,Ilihan Hill,14537,3.5,Food Trip
+Jeff Schmidt,Mount Malindang,16542,2.4,Sightseeing
+Nancy Thompson,Dakak Beach Resort,7226,3.9,Camping
+Paul Copeland,Gloria de Dapitan,14189,1.7,Sightseeing
+Ronald Kennedy,Aliguay Island,18674,3.9,Snorkeling
+Mercedes Williams,Rizal Shrine,9757,4.8,Sightseeing
+David Hudson,Aliguay Island,10210,2.1,Photography
+Alicia Williams,Dipolog Boulevard,18200,2.2,Historical Tour
+Clayton Martin,Mount Malindang,6636,3.8,Hiking
+Jill Walters,Ilihan Hill,17161,1.7,Swimming
+Angela Williams,Fantasyland,3337,4.5,Food Trip
+Karen Hester,Rizal Shrine,17563,2.7,Sightseeing
+Christopher Harrison,Mount Malindang,16309,3.6,Food Trip
+Mr. Kenneth Moran,Ilihan Hill,14785,3.4,Sightseeing
+Matthew Rosario,Gloria de Dapitan,19815,4.8,Island Hopping
+Deanna Nguyen,Aliguay Island,16956,3.1,Hiking
+Mr. Mark White Jr.,Mount Malindang,1407,3.2,Swimming
+Tricia Johnson,Gloria de Dapitan,1419,1.4,Historical Tour
+Robert Arias,Rizal Shrine,7916,1.1,Photography
+Micheal Myers,Ilihan Hill,2073,3.5,Snorkeling
+Kristy Barry,Fantasyland,19133,3.8,Sightseeing
+Rhonda Smith,Aliguay Island,19502,3.2,Swimming
+Eric Baker,Gloria de Dapitan,1511,1.2,Photography
+Lindsey Burns,Dipolog Boulevard,1683,3.0,Historical Tour
+Linda Rogers,Aliguay Island,5778,1.9,Swimming
+Michael Adams,Gloria de Dapitan,1837,4.0,Swimming
+Anna Carpenter,Dipolog Boulevard,7119,4.4,Island Hopping
+Kathy Miranda,Aliguay Island,16506,3.2,Island Hopping
+Mrs. Mary Webb,Mount Malindang,14533,3.6,Historical Tour
+Jennifer Lewis,Mahayag Cave,9473,3.5,Photography
+Matthew Osborne,Dipolog Boulevard,6212,2.3,Swimming
+Jessica Long,Mahayag Cave,7549,3.7,Swimming
+Jennifer Bush,Mahayag Cave,19009,4.6,Nature Exploration
+Tracy Chan,Dakak Beach Resort,15881,1.8,Historical Tour
+Eric Robinson,Dakak Beach Resort,19014,5.0,Food Trip
+Patricia Williams,Ilihan Hill,7541,3.0,Hiking
+Juan Johnson,Dipolog Boulevard,10714,1.7,Hiking
+Mr. Steve King,Ilihan Hill,9483,4.3,Camping
+Darryl Ford,Gloria de Dapitan,13086,2.5,Historical Tour
+Jon White,Aliguay Island,6882,1.7,Food Trip
+Francisco Farrell,Ilihan Hill,9926,4.6,Camping
+Bryan Smith,Fantasyland,2870,1.2,Nature Exploration
+Michelle Avery,Dakak Beach Resort,17060,3.2,Food Trip
+Kimberly Bowman,Ilihan Hill,5287,2.8,Sightseeing
+Nicole Lane,Sergio Osmeña Falls,10016,2.0,Food Trip
+Kelly Richards,Dakak Beach Resort,9353,1.6,Island Hopping
+Tamara Mckinney,Rizal Shrine,10795,4.6,Food Trip
+Allen Williams,Mount Malindang,18055,3.3,Hiking
+Anthony Hicks,Ilihan Hill,6862,1.8,Historical Tour
+Francisco Reilly,Dipolog Boulevard,2102,3.6,Nature Exploration
+Brandon Bowman,Rizal Shrine,7208,1.2,Island Hopping
+Christine Hurst,Dipolog Boulevard,14449,4.6,Food Trip
+David Johnson,Dakak Beach Resort,4702,1.4,Snorkeling
+Mary Lee,Ilihan Hill,1413,3.4,Island Hopping
+Monique Lee,Dakak Beach Resort,8027,3.1,Sightseeing
+Garrett Michael,Mahayag Cave,15422,4.0,Photography
+Brandi Phillips,Gloria de Dapitan,15896,4.3,Snorkeling
+Brianna Lamb,Fantasyland,3518,4.8,Hiking
+Mike Williams Jr.,Dakak Beach Resort,14699,4.5,Island Hopping
+Edward Henderson,Fantasyland,3856,3.6,Nature Exploration
+Michael Mahoney,Fantasyland,1177,3.2,Island Hopping
+Angela Hughes,Gloria de Dapitan,17776,1.1,Food Trip
+Jorge Cook,Sergio Osmeña Falls,11057,2.5,Historical Tour
+Melissa Walton,Mahayag Cave,15214,1.7,Sightseeing
+Christopher Sullivan,Dipolog Boulevard,7014,1.3,Food Trip
+Mark Spence,Ilihan Hill,8816,2.1,Hiking
+Shannon Cruz,Fantasyland,4643,3.1,Nature Exploration
+Elizabeth Sweeney,Mahayag Cave,16955,2.0,Historical Tour
+Mike Trujillo,Rizal Shrine,19660,3.5,Historical Tour
+Andrew Henderson,Aliguay Island,3711,3.6,Camping
+Alexis Warren,Fantasyland,4918,3.4,Photography
+Hannah Gomez,Mount Malindang,4015,2.6,Sightseeing
+Mariah Robinson,Aliguay Island,14472,4.6,Island Hopping
+Christopher Perkins,Aliguay Island,6659,4.2,Snorkeling
+Jordan Johnson,Mahayag Cave,11291,3.7,Island Hopping
+David Ali,Dakak Beach Resort,10314,3.7,Food Trip
+Joshua Spencer,Dipolog Boulevard,7298,3.3,Snorkeling
+Kelsey Williams,Aliguay Island,19069,2.1,Swimming
+Pamela Murray,Fantasyland,11935,5.0,Camping
+Gary Rivera,Sergio Osmeña Falls,12320,4.2,Sightseeing
+Victoria Martinez,Mount Malindang,10365,2.7,Historical Tour
+Timothy Garcia,Mahayag Cave,10325,2.5,Nature Exploration
+Christopher Garcia,Aliguay Island,8585,4.2,Camping
+Christian Haynes,Aliguay Island,13692,3.8,Nature Exploration
+Jessica Smith,Ilihan Hill,1320,4.5,Island Hopping
+John Lambert,Gloria de Dapitan,6033,3.4,Sightseeing
+Lynn Carrillo,Rizal Shrine,2310,2.8,Island Hopping
+Dennis Flores,Dipolog Boulevard,8893,2.2,Sightseeing
+John Martin,Dakak Beach Resort,19515,4.6,Island Hopping
+Kaitlyn Hensley,Dakak Beach Resort,13814,4.5,Hiking
+Kimberly Lambert,Mahayag Cave,16476,4.8,Historical Tour
+Amanda Taylor MD,Sergio Osmeña Falls,14983,4.9,Swimming
+Michael Graham,Mount Malindang,10293,2.6,Historical Tour
+Jose Hutchinson,Sergio Osmeña Falls,9114,1.1,Camping
+Kathryn Daniels,Dakak Beach Resort,4148,4.4,Sightseeing
+Victoria Johnson,Rizal Shrine,8906,4.7,Camping
+Mary Hernandez,Ilihan Hill,11115,4.4,Nature Exploration
+Edward Hernandez,Gloria de Dapitan,16651,3.9,Camping
+Kenneth Snow,Fantasyland,10616,2.1,Swimming
+Katherine Campbell,Dipolog Boulevard,14049,4.3,Sightseeing
+Elijah Conner,Mahayag Cave,16657,2.4,Swimming
+Heidi Harmon,Fantasyland,17032,2.6,Island Hopping
+William Estrada,Mount Malindang,17567,2.2,Swimming
+James Short,Dakak Beach Resort,17811,3.7,Photography
+Anthony Strickland,Rizal Shrine,19123,2.8,Island Hopping
+Angela May,Dakak Beach Resort,4531,2.9,Food Trip
+Tony Roberts,Mount Malindang,7644,1.0,Photography
+Robert Ford,Gloria de Dapitan,19818,4.9,Island Hopping
+Aaron Johnson,Fantasyland,14151,3.1,Island Hopping
+Dean Lewis,Gloria de Dapitan,10760,1.0,Sightseeing
+Madison Tucker,Mount Malindang,18606,4.1,Camping
+Billy Willis,Mahayag Cave,16859,3.1,Snorkeling
+Christine Charles,Gloria de Dapitan,16742,2.4,Sightseeing
+Aaron Knox,Sergio Osmeña Falls,12310,3.2,Nature Exploration
+John King,Aliguay Island,10271,1.6,Snorkeling
+Jessica Gonzalez,Fantasyland,7312,2.7,Food Trip
+Sharon Lee,Rizal Shrine,6348,4.3,Sightseeing
+Shelly Smith,Mount Malindang,3652,4.8,Photography
+Rebecca Wise,Dipolog Boulevard,11028,3.4,Food Trip
+David Anderson,Fantasyland,10136,3.1,Snorkeling
+James Atkinson,Mount Malindang,11627,1.7,Snorkeling
+Holly Oconnor,Dipolog Boulevard,11053,2.4,Hiking
+William Murray,Dakak Beach Resort,11401,3.5,Photography
+Mackenzie Nelson,Mount Malindang,5136,4.7,Sightseeing
+Kenneth Maldonado,Gloria de Dapitan,4443,2.3,Hiking
+Michael Johnson,Dipolog Boulevard,16077,3.5,Camping
+Howard Mccarthy,Rizal Shrine,12439,1.8,Sightseeing
+John Lopez,Sergio Osmeña Falls,18393,1.6,Camping
+Mrs. Jessica Burns,Mount Malindang,8595,1.9,Nature Exploration
+Kirk Williams,Rizal Shrine,12737,2.1,Snorkeling
+Elizabeth Fischer,Rizal Shrine,15498,4.7,Island Hopping
+Ryan Lowe,Fantasyland,1468,1.7,Nature Exploration
+Kelsey Hahn,Gloria de Dapitan,18684,3.0,Sightseeing
+James Powell,Gloria de Dapitan,19919,2.9,Photography
+Micheal Hernandez,Ilihan Hill,18111,4.9,Nature Exploration
+Shannon Perez,Dipolog Boulevard,15641,4.8,Sightseeing
+Robert Everett,Dakak Beach Resort,12045,3.2,Historical Tour
+Colton Grant,Dipolog Boulevard,2156,4.3,Island Hopping
+Dawn Thomas,Mount Malindang,9183,4.3,Historical Tour
+Deborah Farrell,Fantasyland,6179,3.2,Swimming
+Julie Clark,Mount Malindang,1787,4.8,Food Trip
+Dawn Anderson,Dipolog Boulevard,11832,2.7,Snorkeling
+Paul Drake,Dakak Beach Resort,2331,1.6,Camping
+Jesse Smith,Ilihan Hill,9087,2.3,Swimming
+Hailey Ayers,Aliguay Island,1020,4.4,Historical Tour
+Austin Stevens,Dakak Beach Resort,14400,1.5,Nature Exploration
+Pamela Kelly,Gloria de Dapitan,4688,1.8,Camping
+Edward Hogan,Aliguay Island,16651,3.3,Nature Exploration
+Christy Butler,Ilihan Hill,17474,3.3,Hiking
+Larry Collins,Dakak Beach Resort,19718,3.6,Sightseeing
+Daniel Austin,Aliguay Island,10005,2.0,Island Hopping
+Anthony Long,Sergio Osmeña Falls,2405,1.6,Camping
+Beverly Hatfield,Aliguay Island,6355,4.5,Island Hopping
+Marc Welch,Dakak Beach Resort,3947,1.5,Photography
+Ashley Rodriguez,Gloria de Dapitan,14825,3.5,Food Trip
+Jeffery Thompson,Dakak Beach Resort,16789,2.9,Island Hopping
+Chase Parks,Gloria de Dapitan,4822,1.5,Hiking
+Jacob Powers,Mount Malindang,10904,4.3,Food Trip
+Katherine Roberson,Mount Malindang,8046,1.9,Island Hopping
+Daniel Walker,Mahayag Cave,16752,2.6,Swimming
+Melissa Hall,Dakak Beach Resort,2755,1.6,Swimming
+Cindy Hill,Fantasyland,6096,1.9,Food Trip
+Shannon Banks,Mount Malindang,13647,2.2,Snorkeling
+Tammy Graham,Mount Malindang,10646,3.1,Food Trip
+Rachel Harris,Dipolog Boulevard,3956,4.6,Nature Exploration
+Mark Brown,Mahayag Cave,3989,1.7,Snorkeling
+Amy Hill,Mahayag Cave,5874,4.9,Island Hopping
+Ian Glover,Sergio Osmeña Falls,5183,4.6,Nature Exploration
+Amy Patterson,Mount Malindang,4226,3.2,Snorkeling
+Tonya Pace,Ilihan Hill,5971,3.1,Snorkeling
+Vincent Hawkins,Mount Malindang,13264,1.4,Nature Exploration
+Karen Sullivan,Dipolog Boulevard,16106,2.2,Nature Exploration
+Dawn Payne,Aliguay Island,16462,1.9,Hiking
+Mia Fischer,Mount Malindang,7373,4.4,Photography
+Joshua Rodriguez,Sergio Osmeña Falls,1928,2.9,Island Hopping
+Jason Tucker,Dipolog Boulevard,19887,2.3,Historical Tour
+John Thomas,Fantasyland,4707,2.2,Camping
+Andres Lee,Ilihan Hill,4139,2.8,Snorkeling
+Robert Miller,Rizal Shrine,6337,1.1,Photography
+Kenneth Kemp,Dakak Beach Resort,3162,1.2,Swimming
+Lauren Castillo,Mount Malindang,14794,1.4,Island Hopping
+Laura Aguirre,Fantasyland,1955,4.5,Historical Tour
+Sharon Gallagher,Gloria de Dapitan,10225,2.1,Swimming
+Tara Hernandez,Ilihan Hill,18801,3.3,Camping
+Timothy Hayes,Fantasyland,15374,3.7,Food Trip
+Laura Dawson,Ilihan Hill,5947,4.5,Photography
+Samantha Harrison,Ilihan Hill,14490,2.0,Island Hopping
+Dr. Marisa Thomas,Rizal Shrine,9839,2.1,Swimming
+Gabrielle Moore,Aliguay Island,10946,5.0,Photography
+Stephanie Marshall,Aliguay Island,14497,1.2,Hiking
+Jesse Martin,Dipolog Boulevard,9054,2.7,Swimming
+Gregg Clark,Gloria de Dapitan,14308,3.2,Photography
+Michael Thomas,Dipolog Boulevard,10391,4.5,Swimming
+James Lee,Dipolog Boulevard,3860,2.2,Food Trip
+Cassandra Paul,Rizal Shrine,18710,3.4,Food Trip
+Amy Gamble,Aliguay Island,2349,3.8,Photography
+Jodi Henson DVM,Gloria de Dapitan,11200,1.8,Nature Exploration
+Timothy West,Dakak Beach Resort,16083,1.0,Camping
+Gregory Brandt,Fantasyland,7855,2.8,Sightseeing
+Alexander Smith,Aliguay Island,7519,4.4,Snorkeling
+Taylor Jones,Rizal Shrine,7962,4.7,Camping
+Megan Mendoza,Aliguay Island,18432,3.0,Food Trip
+Michael Shaffer,Fantasyland,5595,2.2,Snorkeling
+Daniel Moore,Gloria de Dapitan,5413,4.0,Swimming
+Erin Wood,Dakak Beach Resort,2982,2.1,Snorkeling
+Melissa Hawkins,Sergio Osmeña Falls,13695,1.3,Historical Tour
+Jeremy Davis,Mahayag Cave,18322,1.7,Photography
+Victoria Carpenter,Rizal Shrine,17998,4.7,Nature Exploration
+Jason Grant,Mahayag Cave,8307,4.1,Historical Tour
+Keith Marshall,Ilihan Hill,4531,1.5,Nature Exploration
+Katie Morales,Gloria de Dapitan,17843,2.0,Camping
+Dakota Hernandez,Dipolog Boulevard,5132,2.5,Historical Tour
+Jeffrey Clark,Dipolog Boulevard,2613,3.8,Island Hopping
+John Perkins,Aliguay Island,6159,4.7,Hiking
+Amy Trujillo,Mount Malindang,7109,2.0,Photography
+Michele Mckenzie,Aliguay Island,4304,4.1,Snorkeling
+Rachel Kelley,Mount Malindang,19127,1.5,Photography
+Paula Conrad,Dakak Beach Resort,2308,4.7,Hiking
+Amanda Nash,Rizal Shrine,17072,3.1,Snorkeling
+Adam Krause,Aliguay Island,1146,3.8,Snorkeling
+Tina Flores,Fantasyland,8268,2.0,Historical Tour
+Lisa Reynolds,Dipolog Boulevard,18648,1.0,Camping
+Wesley Jones,Rizal Shrine,18085,1.4,Historical Tour
+Francis Wyatt,Gloria de Dapitan,6450,1.3,Camping
+Joseph Washington,Gloria de Dapitan,8785,2.1,Photography
+Leslie Rodriguez,Ilihan Hill,6684,2.2,Nature Exploration
+Tyler Harris,Mahayag Cave,14767,3.3,Island Hopping
+Brian Rhodes,Dipolog Boulevard,14901,1.3,Camping
+Nicole Allen MD,Gloria de Dapitan,6554,3.4,Swimming
+Logan Bell,Gloria de Dapitan,6848,1.6,Historical Tour
+Jonathan Perez,Dipolog Boulevard,4958,1.6,Sightseeing
+Jennifer Tran,Rizal Shrine,9023,4.8,Nature Exploration
+Pam Wilson,Dakak Beach Resort,8274,3.2,Camping
+Jesse Shaw,Gloria de Dapitan,8729,5.0,Snorkeling
+Nathaniel Fletcher,Dipolog Boulevard,16222,3.6,Hiking
+Brenda Lopez,Dipolog Boulevard,6488,2.7,Camping
+Joshua Page,Ilihan Hill,7248,3.5,Snorkeling
+Michael Russell,Ilihan Hill,11657,5.0,Historical Tour
+David Chavez,Aliguay Island,15829,4.6,Camping
+Michelle Martinez,Dipolog Boulevard,4840,3.9,Swimming
+Elizabeth Myers,Rizal Shrine,17673,3.0,Nature Exploration
+Richard Garcia,Gloria de Dapitan,14386,4.3,Camping
+Brianna Wilson,Aliguay Island,6365,2.8,Historical Tour
+Katrina Jennings,Ilihan Hill,17731,3.7,Snorkeling
+Lisa Ferguson,Rizal Shrine,7736,4.1,Camping
+Brittany Fritz,Rizal Shrine,9234,5.0,Sightseeing
+Lauren Jones,Aliguay Island,8106,4.5,Nature Exploration
+Stephen Ramirez,Ilihan Hill,12357,3.7,Hiking
+Sarah Ali,Rizal Shrine,17546,2.7,Camping
+Robert May,Dipolog Boulevard,10350,3.6,Island Hopping
+Lori Ortega,Mount Malindang,14207,1.2,Swimming
+Robert Nelson,Dipolog Boulevard,5767,3.2,Swimming
+Robert Harris,Mount Malindang,16267,4.5,Nature Exploration
+Joshua Harvey,Ilihan Hill,11226,5.0,Food Trip
+Elizabeth David,Dipolog Boulevard,5990,1.6,Camping
+Ashley Bennett,Aliguay Island,15427,4.6,Snorkeling
+Andrew Martin,Rizal Shrine,14071,4.2,Swimming
+Bradley King,Mahayag Cave,7496,3.2,Snorkeling
+Gerald Miller,Fantasyland,8077,4.6,Historical Tour
+Ashley Morton,Dipolog Boulevard,13907,1.7,Photography
+Andrea Garcia,Mahayag Cave,4103,2.6,Historical Tour
+Rachel Hines,Aliguay Island,7393,3.8,Camping
+Sara Mendez,Dipolog Boulevard,18198,4.8,Hiking
+Valerie Clark,Mount Malindang,9525,4.5,Snorkeling
+Laura Moon,Ilihan Hill,19529,3.7,Food Trip
+Jennifer Greene,Gloria de Dapitan,15389,3.5,Snorkeling
+Dana Hernandez,Mount Malindang,16009,4.5,Photography
+Jasmine Blackwell,Gloria de Dapitan,15936,3.0,Sightseeing
+Russell Ramos,Mahayag Cave,16831,3.0,Historical Tour
+Bethany Torres,Dipolog Boulevard,8813,1.3,Island Hopping
+Kyle Rogers,Aliguay Island,9909,4.9,Hiking
+James Powell,Gloria de Dapitan,17633,3.0,Photography
+Kevin Harris,Sergio Osmeña Falls,7025,3.8,Swimming
+Anita Andrews,Dipolog Boulevard,12260,3.7,Nature Exploration
+Derrick Montes,Dakak Beach Resort,8095,3.5,Swimming
+Chris Hill,Dakak Beach Resort,11492,1.7,Photography
+Ashley Vargas,Gloria de Dapitan,1931,1.2,Food Trip
+Christopher Conley,Mahayag Cave,8413,4.6,Historical Tour
+Nichole Hunter MD,Aliguay Island,12791,2.7,Sightseeing
+Natasha Burke,Dipolog Boulevard,13735,4.3,Snorkeling
+Juan Spears,Mount Malindang,9119,3.2,Nature Exploration
+Nicholas Carroll,Sergio Osmeña Falls,1121,4.9,Camping
+Ashlee Reyes,Dipolog Boulevard,11399,4.1,Sightseeing
+Dale Combs,Mount Malindang,11209,1.9,Swimming
+Dana Mitchell,Mahayag Cave,1462,1.0,Photography
+Sydney Garcia,Sergio Osmeña Falls,15904,2.7,Photography
+Hailey Moore,Gloria de Dapitan,13062,4.2,Photography
+Richard Oliver,Mount Malindang,19081,1.5,Camping
+Carol Dunn,Mount Malindang,16579,1.4,Photography
+David Holmes,Mahayag Cave,6347,1.4,Island Hopping
+Ryan Summers,Aliguay Island,2932,1.6,Camping
+Tony Jones,Mahayag Cave,7307,2.8,Snorkeling
+Michelle Wells,Rizal Shrine,3069,4.3,Swimming
+Matthew Rollins,Dakak Beach Resort,4119,3.4,Nature Exploration
+Mark Hayes,Mount Malindang,16245,2.7,Photography
+Andrew Burns,Gloria de Dapitan,3533,2.2,Snorkeling
+Wendy Cunningham,Dipolog Boulevard,16603,2.7,Island Hopping
+Patrick Long,Gloria de Dapitan,6689,4.9,Nature Exploration
+Brandon Vargas,Mahayag Cave,9525,5.0,Snorkeling
+Eric Shaw,Rizal Shrine,8658,2.4,Hiking
+Andre Mcdowell,Dakak Beach Resort,9464,4.4,Nature Exploration
+Eric Kelley,Mount Malindang,10941,4.2,Sightseeing
+Leslie Morrison,Sergio Osmeña Falls,8480,2.8,Historical Tour
+Robert Rios,Mahayag Cave,8402,4.4,Nature Exploration
+Darrell Long,Fantasyland,13318,2.3,Swimming
+David Wells,Ilihan Hill,19326,4.4,Camping
+Jeremy Fitzpatrick,Ilihan Hill,7704,1.4,Photography
+David Morris,Mount Malindang,3729,1.6,Nature Exploration
+Joel Patrick,Rizal Shrine,15366,1.9,Snorkeling
+Brandon Bush,Sergio Osmeña Falls,1658,2.9,Photography
+Ashley Reese,Mount Malindang,15518,1.6,Food Trip
+Mercedes Conner,Gloria de Dapitan,15630,2.2,Sightseeing
+Carolyn Walker,Fantasyland,10729,3.4,Photography
+Savannah Berry,Rizal Shrine,11423,3.6,Camping
+Lisa Lang,Dakak Beach Resort,11236,1.5,Island Hopping
+Tamara Davis,Sergio Osmeña Falls,19186,1.4,Camping
+Christopher Schroeder,Fantasyland,15150,1.6,Swimming
+Melissa Diaz,Mount Malindang,13828,2.9,Food Trip
+Terry Brady,Gloria de Dapitan,11610,4.5,Historical Tour
+Stacey English,Gloria de Dapitan,17168,2.4,Food Trip
+Brandy Graham,Dakak Beach Resort,10004,4.2,Swimming
+Barbara Whitehead,Mahayag Cave,17086,1.9,Photography
+Jessica Hamilton,Mount Malindang,16061,3.9,Swimming
+Jessica Hull,Fantasyland,6253,1.3,Hiking
+Dr. Teresa Whitney,Dipolog Boulevard,12804,1.3,Island Hopping
+Jaime Pollard,Rizal Shrine,1570,2.9,Photography
+Susan Beck,Dipolog Boulevard,9180,4.1,Swimming
+Ashley Hall,Mahayag Cave,2709,1.0,Island Hopping
+Scott Cohen,Fantasyland,2712,4.3,Snorkeling
+Sandra Burgess,Fantasyland,9765,2.7,Hiking
+Anthony Ayala,Rizal Shrine,8466,3.8,Swimming
+Paige Lopez,Dakak Beach Resort,15352,2.1,Camping
+Isaac Hall,Fantasyland,12549,2.4,Food Trip
+Dr. Laura Fowler,Mount Malindang,9415,4.0,Food Trip
+Lawrence Navarro,Dakak Beach Resort,6348,2.2,Island Hopping
+Jose Kennedy,Mount Malindang,6056,4.9,Snorkeling
+Michele Levy,Gloria de Dapitan,4341,3.2,Camping
+Heather Howell,Gloria de Dapitan,2882,4.0,Photography
+Jennifer Meyers,Fantasyland,17999,4.2,Sightseeing
+Daryl Avila,Ilihan Hill,1686,1.9,Historical Tour
+Troy Hill,Gloria de Dapitan,17708,2.2,Historical Tour
+Connie Ramos,Mount Malindang,14232,1.5,Hiking
+Mr. Taylor Schwartz,Ilihan Hill,8938,4.5,Nature Exploration
+Anthony Johnson,Mahayag Cave,7910,1.8,Sightseeing
+Carrie Fuller,Gloria de Dapitan,1405,4.0,Photography
+Robert Leon,Sergio Osmeña Falls,7856,1.8,Food Trip
+Melissa Mills,Dipolog Boulevard,13382,3.5,Camping
+April Mccarthy,Gloria de Dapitan,6288,4.8,Swimming
+Christopher Gonzalez,Aliguay Island,8654,1.6,Swimming
+Gary West,Gloria de Dapitan,10319,3.4,Sightseeing
+Samuel Bradley,Dipolog Boulevard,11816,4.6,Food Trip
+Madison Carr,Dakak Beach Resort,1777,4.5,Island Hopping
+Erica Gomez,Aliguay Island,17186,1.6,Camping
+Mrs. Shannon Adams,Rizal Shrine,19067,3.3,Historical Tour
+Charles Cobb,Dakak Beach Resort,4674,3.4,Historical Tour
+Brittany Schroeder,Gloria de Dapitan,14754,4.5,Photography
+Melissa Whitney,Gloria de Dapitan,7440,2.1,Food Trip
+Margaret Lee,Fantasyland,6749,3.7,Snorkeling
+Blake Smith,Dipolog Boulevard,7698,1.7,Camping
+Andrew Lara,Sergio Osmeña Falls,9752,1.3,Snorkeling
+Robert Mitchell,Mount Malindang,3775,1.3,Hiking
+Matthew Mendoza,Sergio Osmeña Falls,13580,1.4,Hiking
+Timothy Wiley,Rizal Shrine,6694,5.0,Camping
+Joseph Simpson MD,Rizal Shrine,18741,1.6,Historical Tour
+James Jenkins,Mount Malindang,6450,1.8,Historical Tour
+Melinda Cummings,Dakak Beach Resort,19551,1.5,Sightseeing
+Corey Schmidt,Fantasyland,12489,1.5,Snorkeling
+Michelle Rivera,Sergio Osmeña Falls,15540,4.8,Swimming
+Jacob Obrien,Rizal Shrine,10563,4.5,Food Trip
+Christopher Estrada,Mahayag Cave,14466,3.3,Hiking
+Erik Martinez,Dipolog Boulevard,17300,4.7,Nature Exploration
+Anthony Henry,Dipolog Boulevard,8893,2.3,Nature Exploration
+Sharon Navarro,Aliguay Island,3203,3.4,Snorkeling
+Emily Martin,Aliguay Island,4789,2.3,Camping
+Mrs. Rhonda Hansen,Dipolog Boulevard,8298,3.8,Sightseeing
+Luis Peterson,Aliguay Island,12731,3.5,Island Hopping
+Jake Fuentes,Sergio Osmeña Falls,15515,1.8,Nature Exploration
+Sarah Herring,Ilihan Hill,8671,2.9,Historical Tour
+Carolyn Smith,Mount Malindang,4376,2.5,Island Hopping
+Lauren Murphy,Gloria de Dapitan,2679,4.2,Nature Exploration
+Tamara Gonzalez,Gloria de Dapitan,9139,3.6,Photography
+Patrick Reynolds,Aliguay Island,8021,4.2,Swimming
+Robert Morrison,Gloria de Dapitan,19955,4.2,Camping
+Devon Williams,Dakak Beach Resort,3800,1.3,Photography
+Carla Jenkins,Ilihan Hill,16080,3.1,Nature Exploration
+Frank Berry,Rizal Shrine,4715,2.8,Historical Tour
+Amanda Figueroa,Dakak Beach Resort,19344,2.6,Nature Exploration
+Crystal Martin,Dipolog Boulevard,10231,4.4,Hiking
+Allison Ramos,Rizal Shrine,15716,4.9,Hiking
+Jennifer Gregory,Sergio Osmeña Falls,13741,1.1,Historical Tour
+Teresa Jones,Ilihan Hill,15793,2.4,Food Trip
+Rebecca Davis,Gloria de Dapitan,19376,1.5,Camping
+Matthew Myers,Rizal Shrine,17511,2.3,Camping
+Jessica Melton,Sergio Osmeña Falls,12556,2.7,Camping
+Megan Sanchez,Dakak Beach Resort,5220,4.9,Historical Tour
+Thomas Owen,Mahayag Cave,15036,4.4,Sightseeing
+Charles Bolton,Fantasyland,4482,4.2,Swimming
+Alison Cole,Sergio Osmeña Falls,16995,4.8,Photography
+Peggy Romero,Fantasyland,8383,3.2,Photography
+Troy Valdez,Mahayag Cave,16968,1.4,Swimming
+Peter Silva,Rizal Shrine,16157,2.0,Nature Exploration
+Gail Jones,Dipolog Boulevard,15079,1.3,Photography
+Susan Allen,Dakak Beach Resort,14549,2.1,Swimming
+Mason Massey,Aliguay Island,7376,1.1,Historical Tour
+David Smith,Rizal Shrine,15268,3.5,Camping
+Sarah Montgomery,Sergio Osmeña Falls,2749,1.6,Food Trip
+Allen Hansen,Ilihan Hill,18197,3.3,Nature Exploration
+Peter Arnold,Dakak Beach Resort,2055,1.8,Photography
+Patrick Tran,Sergio Osmeña Falls,1840,1.4,Photography
+Sharon Wilcox,Aliguay Island,7817,2.1,Snorkeling
+Emily Stevens,Sergio Osmeña Falls,15897,4.6,Sightseeing
+Marissa Ramirez,Dipolog Boulevard,17943,3.7,Historical Tour
+Alexandria Torres,Mahayag Cave,15184,2.6,Hiking
+Shirley Sims,Ilihan Hill,17995,3.0,Food Trip
+Donna Murphy,Fantasyland,1002,3.0,Swimming
+Dustin Phillips,Dakak Beach Resort,14828,4.2,Historical Tour
+Joshua Lang,Sergio Osmeña Falls,4050,1.1,Photography
+Thomas Stephens,Dipolog Boulevard,2334,1.1,Historical Tour
+Levi Spears DDS,Sergio Osmeña Falls,12216,2.7,Historical Tour
+Gary Ayala,Fantasyland,5490,4.0,Historical Tour
+Kayla Flynn,Gloria de Dapitan,11172,1.3,Historical Tour
+Shelby Melton,Dakak Beach Resort,6629,2.9,Food Trip
+Joyce Perkins,Dakak Beach Resort,11937,4.8,Historical Tour
+Sandra Henson,Gloria de Dapitan,3856,4.0,Sightseeing
+Samantha Sexton,Mahayag Cave,9996,2.1,Food Trip
+Catherine Bryant,Gloria de Dapitan,10355,1.7,Food Trip
+Amy Contreras,Ilihan Hill,13243,2.5,Camping
+Melissa Delgado,Dipolog Boulevard,8837,3.6,Snorkeling
+Devin Jones,Dipolog Boulevard,17745,3.8,Historical Tour
+Sabrina Knight,Mahayag Cave,13283,3.5,Historical Tour
+Timothy Wells,Dakak Beach Resort,4537,2.4,Swimming
+Mario Garcia,Mahayag Cave,16651,3.2,Snorkeling
