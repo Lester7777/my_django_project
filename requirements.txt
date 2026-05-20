@@ -1,0 +1,9 @@
+Django==6.0.5
+django-filter==25.2
+djangorestframework==3.16.1
+joblib==1.5.3
+Markdown==3.10.2
+numpy==2.2.6
+pandas==3.0.3
+requests==2.32.3
+scikit-learn==1.8.0
